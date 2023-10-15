@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quality Assurance and Automation
 - 🌱 I’m currently learning Quality Assurance 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 RajivSukhnandan@gmail.com
 
 <!---
 Rajiv718/Rajiv718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
